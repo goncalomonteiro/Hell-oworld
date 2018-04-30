@@ -1,0 +1,351 @@
+[{
+				"Year":2004, 
+
+				"Diabetes_Type1_AgeUnder50":2,
+				"Diabetes_Type1_AgeOver50":69,
+				"Diabetes_Type2_AgeUnder50":5,
+				"Diabetes_Type2_AgeOver50":92,
+
+				"Alzheimer_Type1_AgeUnder50":9, 
+				"Alzheimer_Type1_AgeOver50":69, 
+				"Alzheimer_Type2_AgeUnder50":4, 
+				"Alzheimer_Type2_AgeOver50":42, 
+
+				"Cancer_Type1_AgeUnder50":6, 
+				"Cancer_Type1_AgeOver50":62,
+				"Cancer_Type2_AgeUnder50":8,
+				"Cancer_Type2_AgeOver50":93,
+				"Cancer_Type3_AgeUnder50":33,
+				"Cancer_Type3_AgeOver50":9,
+
+				"Tuberculosis_Type1_AgeUnder50":0,
+				"Tuberculosis_Type1_AgeOver50":90,
+				"Tuberculosis_Type2_AgeUnder50":0,
+				"Tuberculosis_Type2_AgeOver50":79,
+
+				"Healthy":70000
+			},
+			{
+				"Year":2005, 
+
+				"Diabetes_Type1_AgeUnder50":58, 
+				"Diabetes_Type1_AgeOver50":59,
+				"Diabetes_Type2_AgeUnder50":49,
+				"Diabetes_Type2_AgeOver50":19,
+
+				"Alzheimer_Type1_AgeUnder50":29, 
+				"Alzheimer_Type1_AgeOver50":49, 
+				"Alzheimer_Type2_AgeUnder50":90,
+				"Alzheimer_Type2_AgeOver50":39,
+
+				"Cancer_Type1_AgeUnder50":28, 
+				"Cancer_Type1_AgeOver50":50, 
+				"Cancer_Type2_AgeUnder50":57, 
+				"Cancer_Type2_AgeOver50":26, 
+				"Cancer_Type3_AgeUnder50":33,
+				"Cancer_Type3_AgeOver50":9,
+
+				"Tuberculosis_Type1_AgeUnder50":19,
+				"Tuberculosis_Type1_AgeOver50":59,
+				"Tuberculosis_Type2_AgeUnder50":46,
+				"Tuberculosis_Type2_AgeOver50":30,
+
+				"Healthy":60000
+			},
+			{
+				"Year":2006, 
+
+				"Diabetes_Type1_AgeUnder50":6, 
+				"Diabetes_Type1_AgeOver50":52,
+				"Diabetes_Type2_AgeUnder50":0,
+				"Diabetes_Type2_AgeOver50":69,
+
+				"Alzheimer_Type1_AgeUnder50":60, 
+				"Alzheimer_Type1_AgeOver50":62, 
+				"Alzheimer_Type2_AgeUnder50":2, 
+				"Alzheimer_Type2_AgeOver50":8, 
+
+				"Cancer_Type1_AgeUnder50":1, 
+				"Cancer_Type1_AgeOver50":48, 
+				"Cancer_Type2_AgeUnder50":9, 
+				"Cancer_Type2_AgeOver50":5, 
+				"Cancer_Type3_AgeUnder50":33,
+				"Cancer_Type3_AgeOver50":9,
+
+				"Tuberculosis_Type1_AgeUnder50":8,
+				"Tuberculosis_Type1_AgeOver50":54,
+				"Tuberculosis_Type2_AgeUnder50":0,
+				"Tuberculosis_Type2_AgeOver50":39,
+
+				"Healthy":50000
+			},
+			{
+				"Year":2007, 
+
+				"Diabetes_Type1_AgeUnder50":62, 
+				"Diabetes_Type1_AgeOver50":32,
+				"Diabetes_Type2_AgeUnder50":49,
+				"Diabetes_Type2_AgeOver50":51,
+
+				"Alzheimer_Type1_AgeUnder50":80, 
+				"Alzheimer_Type1_AgeOver50":81, 
+				"Alzheimer_Type2_AgeUnder50":839, 
+				"Alzheimer_Type2_AgeOver50":89, 
+
+				"Cancer_Type1_AgeUnder50":18, 
+				"Cancer_Type1_AgeOver50":48,
+				"Cancer_Type2_AgeUnder50":58,
+				"Cancer_Type2_AgeOver50":68,
+				"Cancer_Type3_AgeUnder50":33,
+				"Cancer_Type3_AgeOver50":9,
+
+				"Tuberculosis_Type1_AgeUnder50":33,
+				"Tuberculosis_Type1_AgeOver50":69,
+				"Tuberculosis_Type2_AgeUnder50":19,
+				"Tuberculosis_Type2_AgeOver50":81,
+
+				"Healthy":54030
+			},
+			{
+				"Year":2008, 
+
+				"Diabetes_Type1_AgeUnder50":5,
+				"Diabetes_Type1_AgeOver50":29,
+				"Diabetes_Type2_AgeUnder50":8,
+				"Diabetes_Type2_AgeOver50":90,
+
+				"Alzheimer_Type1_AgeUnder50":1, 
+				"Alzheimer_Type1_AgeOver50":82, 
+				"Alzheimer_Type2_AgeUnder50":5, 
+				"Alzheimer_Type2_AgeOver50":82, 
+
+				"Cancer_Type1_AgeUnder50":4, 
+				"Cancer_Type1_AgeOver50":29, 
+				"Cancer_Type2_AgeUnder50":9, 
+				"Cancer_Type2_AgeOver50":68, 
+				"Cancer_Type3_AgeUnder50":33,
+				"Cancer_Type3_AgeOver50":9,
+
+				"Tuberculosis_Type1_AgeUnder50":2,
+				"Tuberculosis_Type1_AgeOver50":95,
+				"Tuberculosis_Type2_AgeUnder50":3,
+				"Tuberculosis_Type2_AgeOver50":20,
+
+				"Healthy":3000
+			},
+			{
+				"Year":2009, 
+
+				"Diabetes_Type1_AgeUnder50":18, 
+				"Diabetes_Type1_AgeOver50":19,
+				"Diabetes_Type2_AgeUnder50":72,
+				"Diabetes_Type2_AgeOver50":86,
+
+				"Alzheimer_Type1_AgeUnder50":29, 
+				"Alzheimer_Type1_AgeOver50":10, 
+				"Alzheimer_Type2_AgeUnder50":63, 
+				"Alzheimer_Type2_AgeOver50":44, 
+
+				"Cancer_Type1_AgeUnder50":78, 
+				"Cancer_Type1_AgeOver50":88, 
+				"Cancer_Type2_AgeUnder50":2, 
+				"Cancer_Type2_AgeOver50":92, 
+				"Cancer_Type3_AgeUnder50":33,
+				"Cancer_Type3_AgeOver50":9,
+
+				"Tuberculosis_Type1_AgeUnder50":0,
+				"Tuberculosis_Type1_AgeOver50":19,
+				"Tuberculosis_Type2_AgeUnder50":28,
+				"Tuberculosis_Type2_AgeOver50":13,
+				
+				"Healthy":2000
+			},
+			{
+				"Year":2010, 
+
+				"Diabetes_Type1_AgeUnder50":9, 
+				"Diabetes_Type1_AgeOver50":93,
+				"Diabetes_Type2_AgeUnder50":9,
+				"Diabetes_Type2_AgeOver50":0,
+
+				"Alzheimer_Type1_AgeUnder50":4, 
+				"Alzheimer_Type1_AgeOver50":29, 
+				"Alzheimer_Type2_AgeUnder50":2, 
+				"Alzheimer_Type2_AgeOver50":19, 
+
+				"Cancer_Type1_AgeUnder50":7, 
+				"Cancer_Type1_AgeOver50":72, 
+				"Cancer_Type2_AgeUnder50":5, 
+				"Cancer_Type2_AgeOver50":30, 
+				"Cancer_Type3_AgeUnder50":33,
+				"Cancer_Type3_AgeOver50":9,
+
+				"Tuberculosis_Type1_AgeUnder50":3,
+				"Tuberculosis_Type1_AgeOver50":80,
+				"Tuberculosis_Type2_AgeUnder50":9,
+				"Tuberculosis_Type2_AgeOver50":30,
+
+				"Healthy":1500
+			},
+			{
+				"Year":2011, 
+
+				"Diabetes_Type1_AgeUnder50":15, 
+				"Diabetes_Type1_AgeOver50":91,
+				"Diabetes_Type2_AgeUnder50":9,
+				"Diabetes_Type2_AgeOver50":11,
+
+				"Alzheimer_Type1_AgeUnder50":10, 
+				"Alzheimer_Type1_AgeOver50":80, 
+				"Alzheimer_Type2_AgeUnder50":10, 
+				"Alzheimer_Type2_AgeOver50":60, 
+
+				"Cancer_Type1_AgeUnder50":12, 
+				"Cancer_Type1_AgeOver50":12, 
+				"Cancer_Type2_AgeUnder50":52, 
+				"Cancer_Type2_AgeOver50":96, 
+				"Cancer_Type3_AgeUnder50":33,
+				"Cancer_Type3_AgeOver50":9,
+
+				"Tuberculosis_Type1_AgeUnder50":32,
+				"Tuberculosis_Type1_AgeOver50":93,
+				"Tuberculosis_Type2_AgeUnder50":29,
+				"Tuberculosis_Type2_AgeOver50":11,
+
+				"Healthy":1000
+			},
+			{
+				"Year":2012, 
+
+				"Diabetes_Type1_AgeUnder50":2, 
+				"Diabetes_Type1_AgeOver50":59,
+				"Diabetes_Type2_AgeUnder50":9,
+				"Diabetes_Type2_AgeOver50":59,
+
+				"Alzheimer_Type1_AgeUnder50":1, 
+				"Alzheimer_Type1_AgeOver50":81, 
+				"Alzheimer_Type2_AgeUnder50":3, 
+				"Alzheimer_Type2_AgeOver50":15, 
+
+				"Cancer_Type1_AgeUnder50":7, 
+				"Cancer_Type1_AgeOver50":79, 
+				"Cancer_Type2_AgeUnder50":8, 
+				"Cancer_Type2_AgeOver50":19, 
+				"Cancer_Type3_AgeUnder50":33,
+				"Cancer_Type3_AgeOver50":9,
+
+				"Tuberculosis_Type1_AgeUnder50":8,
+				"Tuberculosis_Type1_AgeOver50":29,
+				"Tuberculosis_Type2_AgeUnder50":1,
+				"Tuberculosis_Type2_AgeOver50":18,
+
+				"Healthy":900
+			},
+			{
+				"Year":2013, 
+
+				"Diabetes_Type1_AgeUnder50":15, 
+				"Diabetes_Type1_AgeOver50":59,
+				"Diabetes_Type2_AgeUnder50":77,
+				"Diabetes_Type2_AgeOver50":89,
+
+				"Alzheimer_Type1_AgeUnder50":68, 
+				"Alzheimer_Type1_AgeOver50":52, 
+				"Alzheimer_Type2_AgeUnder50":42, 
+				"Alzheimer_Type2_AgeOver50":25, 
+
+				"Cancer_Type1_AgeUnder50":89, 
+				"Cancer_Type1_AgeOver50":58, 
+				"Cancer_Type2_AgeUnder50":59, 
+				"Cancer_Type2_AgeOver50":89, 
+				"Cancer_Type3_AgeUnder50":33,
+				"Cancer_Type3_AgeOver50":9,
+
+				"Tuberculosis_Type1_AgeUnder50":69,
+				"Tuberculosis_Type1_AgeOver50":35,
+				"Tuberculosis_Type2_AgeUnder50":39,
+				"Tuberculosis_Type2_AgeOver50":121,
+
+				"Healthy":800
+			},
+			{
+				"Year":2014, 
+
+				"Diabetes_Type1_AgeUnder50":2, 
+				"Diabetes_Type1_AgeOver50":82,
+				"Diabetes_Type2_AgeUnder50":6,
+				"Diabetes_Type2_AgeOver50":45,
+
+				"Alzheimer_Type1_AgeUnder50":3, 
+				"Alzheimer_Type1_AgeOver50":215, 
+				"Alzheimer_Type2_AgeUnder50":6, 
+				"Alzheimer_Type2_AgeOver50":0, 
+
+				"Cancer_Type1_AgeUnder50":1, 
+				"Cancer_Type1_AgeOver50":31, 
+				"Cancer_Type2_AgeUnder50":9, 
+				"Cancer_Type2_AgeOver50":13, 
+				"Cancer_Type3_AgeUnder50":33,
+				"Cancer_Type3_AgeOver50":9,
+
+				"Tuberculosis_Type1_AgeUnder50":9,
+				"Tuberculosis_Type1_AgeOver50":310,
+				"Tuberculosis_Type2_AgeUnder50":2,
+				"Tuberculosis_Type2_AgeOver50":95,
+
+				"Healthy":500
+			},
+			{
+				"Year":2015, 
+
+				"Diabetes_Type1_AgeUnder50":70, 
+				"Diabetes_Type1_AgeOver50":13,
+				"Diabetes_Type2_AgeUnder50":56,
+				"Diabetes_Type2_AgeOver50":35,
+
+				"Alzheimer_Type1_AgeUnder50":45, 
+				"Alzheimer_Type1_AgeOver50":99, 
+				"Alzheimer_Type2_AgeUnder50":22, 
+				"Alzheimer_Type2_AgeOver50":0, 
+
+				"Cancer_Type1_AgeUnder50":29, 
+				"Cancer_Type1_AgeOver50":84, 
+				"Cancer_Type2_AgeUnder50":90, 
+				"Cancer_Type2_AgeOver50":89, 
+				"Cancer_Type3_AgeUnder50":33,
+				"Cancer_Type3_AgeOver50":9,
+
+				"Tuberculosis_Type1_AgeUnder50":44,
+				"Tuberculosis_Type1_AgeOver50":333,
+				"Tuberculosis_Type2_AgeUnder50":22,
+				"Tuberculosis_Type2_AgeOver50":34,
+
+				"Healthy":300
+			},
+			{
+				"Year":2016, 
+
+				"Diabetes_Type1_AgeUnder50":9, 
+				"Diabetes_Type1_AgeOver50":3,
+				"Diabetes_Type2_AgeUnder50":1,
+				"Diabetes_Type2_AgeOver50":3,
+				
+				"Alzheimer_Type1_AgeUnder50":4, 
+				"Alzheimer_Type1_AgeOver50":9, 
+				"Alzheimer_Type2_AgeUnder50":5, 
+				"Alzheimer_Type2_AgeOver50":9, 
+
+				"Cancer_Type1_AgeUnder50":1, 
+				"Cancer_Type1_AgeOver50":9, 
+				"Cancer_Type2_AgeUnder50":9, 
+				"Cancer_Type2_AgeOver50":9, 
+				"Cancer_Type3_AgeUnder50":33,
+				"Cancer_Type3_AgeOver50":9,
+
+				"Tuberculosis_Type1_AgeUnder50":9,
+				"Tuberculosis_Type1_AgeOver50":0,
+				"Tuberculosis_Type2_AgeUnder50":4,
+				"Tuberculosis_Type2_AgeOver50":2,
+
+				"Healthy":130
+			}]
