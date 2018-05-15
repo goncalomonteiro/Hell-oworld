@@ -1,6 +1,6 @@
 [  
    {  
-      "Year":2004,
+      "Year":"2004",
       "Diabetes_Type1_AgeUnder50":2,
       "Diabetes_Type1_AgeOver50":69,
       "Diabetes_Type2_AgeUnder50":5,
