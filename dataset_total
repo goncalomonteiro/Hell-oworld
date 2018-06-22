@@ -41,8 +41,7 @@
       "Tuberculosis":169,
       "Tuberculosis_AgeUnder50":0,
       "Tuberculosis_AgeOver50":169,
-      "Total_Unhealthy_AgeUnder50":67,
-      "Total_Unhealthy_AgeOver50":605,
+      "Total_Unhealthy":172,
       "AgeUnder50":67,
       "AgeOver50":605
    },
@@ -88,8 +87,7 @@
       "Tuberculosis":154,
       "Tuberculosis_AgeUnder50":65,
       "Tuberculosis_AgeOver50":89,
-      "Total_Unhealthy_AgeUnder50":409,
-      "Total_Unhealthy_AgeOver50":340,
+      "Total_Unhealthy":749,
       "AgeUnder50":409,
       "AgeOver50":340
    },
@@ -135,8 +133,7 @@
       "Tuberculosis":101,
       "Tuberculosis_AgeUnder50":8,
       "Tuberculosis_AgeOver50":93,
-      "Total_Unhealthy_AgeUnder50":119,
-      "Total_Unhealthy_AgeOver50":346,
+      "Total_Unhealthy":465,
       "AgeUnder50":119,
       "AgeOver50":346
    },
@@ -182,8 +179,7 @@
       "Tuberculosis":202,
       "Tuberculosis_AgeUnder50":52,
       "Tuberculosis_AgeOver50":150,
-      "Total_Unhealthy_AgeUnder50":1191,
-      "Total_Unhealthy_AgeOver50":528,
+      "Total_Unhealthy":1719,
       "AgeUnder50":1191,
       "AgeOver50":528
    },
@@ -229,8 +225,7 @@
       "Tuberculosis":120,
       "Tuberculosis_AgeUnder50":5,
       "Tuberculosis_AgeOver50":115,
-      "Total_Unhealthy_AgeUnder50":70,
-      "Total_Unhealthy_AgeOver50":504,
+      "Total_Unhealthy":574,
       "AgeUnder50":70,
       "AgeOver50":504
    },
@@ -276,8 +271,7 @@
       "Tuberculosis":60,
       "Tuberculosis_AgeUnder50":28,
       "Tuberculosis_AgeOver50":32,
-      "Total_Unhealthy_AgeUnder50":323,
-      "Total_Unhealthy_AgeOver50":380,
+      "Total_Unhealthy":703,
       "AgeUnder50":323,
       "AgeOver50":380
    },
@@ -323,8 +317,7 @@
       "Tuberculosis":122,
       "Tuberculosis_AgeUnder50":12,
       "Tuberculosis_AgeOver50":110,
-      "Total_Unhealthy_AgeUnder50":81,
-      "Total_Unhealthy_AgeOver50":362,
+      "Total_Unhealthy":443,
       "AgeUnder50":81,
       "AgeOver50":362
    },
@@ -370,8 +363,7 @@
       "Tuberculosis":165,
       "Tuberculosis_AgeUnder50":61,
       "Tuberculosis_AgeOver50":104,
-      "Total_Unhealthy_AgeUnder50":202,
-      "Total_Unhealthy_AgeOver50":463,
+      "Total_Unhealthy":465,
       "AgeUnder50":202,
       "AgeOver50":463
    },
@@ -417,8 +409,7 @@
       "Tuberculosis":56,
       "Tuberculosis_AgeUnder50":9,
       "Tuberculosis_AgeOver50":47,
-      "Total_Unhealthy_AgeUnder50":72,
-      "Total_Unhealthy_AgeOver50":368,
+      "Total_Unhealthy":440,
       "AgeUnder50":72,
       "AgeOver50":368
    },
@@ -464,8 +455,7 @@
       "Tuberculosis":264,
       "Tuberculosis_AgeUnder50":108,
       "Tuberculosis_AgeOver50":156,
-      "Total_Unhealthy_AgeUnder50":491,
-      "Total_Unhealthy_AgeOver50":537,
+      "Total_Unhealthy":1028,
       "AgeUnder50":491,
       "AgeOver50":537
    },
@@ -511,8 +501,7 @@
       "Tuberculosis":416,
       "Tuberculosis_AgeUnder50":11,
       "Tuberculosis_AgeOver50":405,
-      "Total_Unhealthy_AgeUnder50":71,
-      "Total_Unhealthy_AgeOver50":800,
+      "Total_Unhealthy":871,
       "AgeUnder50":71,
       "AgeOver50":800
    },
@@ -558,8 +547,7 @@
       "Tuberculosis":433,
       "Tuberculosis_AgeUnder50":66,
       "Tuberculosis_AgeOver50":367,
-      "Total_Unhealthy_AgeUnder50":411,
-      "Total_Unhealthy_AgeOver50":696,
+      "Total_Unhealthy":1107,
       "AgeUnder50":411,
       "AgeOver50":696
    },
@@ -605,8 +593,7 @@
       "Tuberculosis":15,
       "Tuberculosis_AgeUnder50":13,
       "Tuberculosis_AgeOver50":2,
-      "Total_Unhealthy_AgeUnder50":75,
-      "Total_Unhealthy_AgeOver50":53,
+      "Total_Unhealthy":128,
       "AgeUnder50":75,
       "AgeOver50":53
    }
